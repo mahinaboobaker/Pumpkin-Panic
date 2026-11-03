@@ -1,0 +1,6 @@
+{
+  "name": "Pumpkin Panic: Survive the Night",
+  "description": "A 2D pixel-art Halloween survival arcade game. Control a little pumpkin character trapped in a haunted forest, dodge ghosts, skeletons, bats, and shadow beasts, grab magical power-ups, and survive 3 minutes till sunrise!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
